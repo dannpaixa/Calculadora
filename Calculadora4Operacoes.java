@@ -1,7 +1,7 @@
 package Calculadora;
 import javax.swing.JOptionPane;
 
-public class calculadora_Project
+public class Calculadora4Operacoes
 {
     public static void main(String[] args) throws Exception 
     {
